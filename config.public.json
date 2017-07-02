@@ -1,4 +1,5 @@
 {
+  "AUTHOR": "heejin",
   "EXCLUDE_TAGS": ["chainbb-bug", "kr-qna", "steem-help"],
   "EXCLUDE_PERMLINKS": [
     "hello-i-m-newbie-for-steemit",
